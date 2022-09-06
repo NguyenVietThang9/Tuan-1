@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+header{
+    width: 411px;
+    height: 140px;
+    background:#cb7802;
+    line-height: 35px;
+    float: left;
+    background-image: linear-gradient(to bottom right,red, yellow);
+    border: 5px solid black;
+}
+header h1{
+    padding: 55px 135px;
+}
+nav{
+    width: 411px;
+    height: 140px;
+    background:red;
+    line-height: 35px;
+    float: left;
+    background-image: linear-gradient(to bottom right, gold, aqua);
+    border: 5px solid blue;
+}
+nav h1{
+    padding: 55px 165px;
+}
+
+article{
+    width: 411px;
+    height: 140px;
+    background:blue;
+    line-height: 35px;
+    float: left;
+    background-image: linear-gradient(to bottom right,blue, aqua);
+    border: 5px solid black;
+}
+article h1{
+    padding: 55px 145px;
+}
+
+aside{
+    width: 832px;
+    height: 310px;
+    background:white;
+    line-height: 35px;
+    float: left;
+   
+    border: 5px solid red;
+}
+aside h1{
+    padding: 135px 350px;
+}
+
+figure{
+    width: 411px;
+    height: 150px;
+    background:red;
+    
+    float: left;
+    background-image: linear-gradient(to bottom right,green, yellow);
+    border: 5px solid orange;
+}
+figure h1{
+    padding: 60px 170px;
+}
+
+fieldset{
+    width: 411px;
+    height: 150px;
+    background:greenyellow;
+    
+    float: left;
+    background-image: linear-gradient(to bottom right, yellow, antiquewhite);
+    border: 5px solid black;
+}
+fieldset h1{
+    padding: 60px 170px;
+}
